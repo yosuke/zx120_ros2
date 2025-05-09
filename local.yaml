@@ -1,0 +1,21 @@
+com3_msgs:
+  ubuntu:
+  - ros-humble-com3-msgs
+zx120_bringup:
+  ubuntu:
+  - ros-humble-zx120-bringup
+zx120_control_hardware:
+  ubuntu:
+  - ros-humble-zx120-control-hardware
+zx120_description:
+  ubuntu:
+  - ros-humble-zx120-description
+zx120_unity:
+  ubuntu:
+  - ros-humble-zx120-unity
+gnss_localizer_ros2:
+  ubuntu:
+  - ros-humble-gnss-localizer-ros2
+zx120_moveit_config:
+  ubuntu:
+  - ros-humble-zx120-moveit-config
